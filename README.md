@@ -10,7 +10,6 @@ My first **React** app with API request to search for heroes.
 
 * Search for heroes information.
 * Add favorite heroes to a Favorite's List.
-* Responsive (Fit well most mobile devices screens).
 
 ## Possible Improvements:
 
