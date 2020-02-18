@@ -8,13 +8,13 @@ My first **React** app with API request to search for heroes.
 
 ## Main Feature(s)
 
-* Seach for heroes informations.
+* Search for heroes information.
 * Add favorite heroes to a Favorite's List.
-* Responsive.
+* Responsive (Fit well most mobile devices screens).
 
 ## Possible Improvements:
 
-1. Add the ability to save the Favorite's List (localStorage/Databse).
+1. Add the ability to save the Favorite's List (localStorage/Database).
 2. Add another screen with more information of each heroe.
 
 ## Built With
