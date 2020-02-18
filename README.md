@@ -19,6 +19,7 @@ My first **React** app with API request to search for heroes.
 ## Built With
 
 * React
+* Bulma (CSS Framework)
 
 ## Credits
 
